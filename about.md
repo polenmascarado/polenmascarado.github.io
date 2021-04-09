@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy político, pero enmascarado; por eso puedo decir sin problemas que no me las se todas, ni soy el más vivo del mundo. Asi que si sabés de algun truco, alguna matufia, algún chamuyo, alguna avivada, escribime, contame, convenceme.
 
-### More Information
+Animate, botonealos.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[elpoliticoenmascarado@gmail.com](mailto:elpoliticoenmascarado@gmail.com)
