@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Político Enmascarado!
+title: El Político Enmascarado
 ---
 
 Hay razones que el corazón no entiende, pero hay otras que el corazón reclama. Esas últimas son las que me llevan a divulgar **los secretos que la política no denuncia, que no les gusta mostrar, que calla, que oculta** bajo amenaza de demandar por injurias porque presentar pruebas de estos delitos es muy dificil. 
