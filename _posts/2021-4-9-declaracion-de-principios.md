@@ -1,10 +1,16 @@
 ---
 layout: post
-title: El político enmascarado!
+title: El Político Enmascarado!
 ---
 
-Razones para publicar este blog
+Hay razones que el corazón no entiende, pero hay otras que el corazón reclama. Esas últimas son las que me llevan a divulgar **los secretos que la política no denuncia, que no les gusta mostrar, que calla, que oculta** bajo amenaza de demandar por injurias porque presentar pruebas de estos delitos es muy dificil. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Aquí hablaremos de prácticas, de vicios, de modus operandi, de avivadas. De justificaciones, de mentiras, de falsedades, de simulación.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Busco que te avives. Y si estás avivado, que asumas que el "perobuenismo" es en parte culpable del estilo de prácticas políticas que sufrimos.
+
+También haré lectura política sobre noticias periodisticas: que me parece que están diciendo los medios cuando escriben lo que publican y del modo en que lo están escribiendo.
+
+También voy a comentar a pedido: mencioname en un tweet y te cuento qué me parece lo que el usuario postea.
+
+### **EPE**
