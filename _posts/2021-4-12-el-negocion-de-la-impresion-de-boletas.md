@@ -9,7 +9,7 @@ Te AVIVO 2: si a un partido grande (que además del negocio de las boletas, se f
 
 Ok, pero volvamos al negocio de las boletas: **Y eso cuánta guita es?**
 
-Te dejo un link en el que [@hijoimprodigo](https://twitter.com/HijoImprodigo) se tomó el trabajo de ilustrar el caso de Espert. En TW lo fueron denunciando y su hilo se cayó, pero acá está completo para que lo leas: [CLICK ACA] (https://threadreaderapp.com/thread/1376633141562114049.html)
+Te dejo un link en el que [@hijoimprodigo](https://twitter.com/HijoImprodigo) se tomó el trabajo de ilustrar el caso de Espert. En TW lo fueron denunciando y su hilo se cayó, pero acá está completo para que lo leas: [CLICK ACA](https://threadreaderapp.com/thread/1376633141562114049.html)
 
 Acepto info. Animate, botonealos.
 
